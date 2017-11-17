@@ -128,7 +128,7 @@ public class ExcelParser {
     public static void main(String[] args) throws IOException, BiffException {
         // TODO code application logic here
         ExcelParser test = new ExcelParser();
-        test.setInputFile("JavaAnswers.xls");
+        test.setInputFile("SampleData.xls");
         test.read();
         //test
         //git
